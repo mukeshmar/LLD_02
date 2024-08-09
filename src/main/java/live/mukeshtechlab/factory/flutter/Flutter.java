@@ -3,7 +3,7 @@ package live.mukeshtechlab.factory.flutter;
 import live.mukeshtechlab.factory.flutter.components.uiFactory.UIFactory;
 
 public class Flutter {
-    // Factory of Factories / Abstract Factories
+    // Factory of Factories / Abstract Factory
     public UIFactory getUiFactory(Platform os){
         return UIFactoryFactory.getUIFactory(os);
     }
