@@ -1,9 +1,9 @@
 package live.mukeshtechlab.factory.flutter;
 
-import live.mukeshtechlab.factory.flutter.components.uiFactory.AndroidUIFactory;
-import live.mukeshtechlab.factory.flutter.components.uiFactory.IosUIFactory;
-import live.mukeshtechlab.factory.flutter.components.uiFactory.UIFactory;
-import live.mukeshtechlab.factory.flutter.components.uiFactory.WindowsUIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.AndroidUIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.IosUIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.UIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.WindowsUIFactory;
 
 
 // UIFactory Helper Class

@@ -1,6 +1,6 @@
 package live.mukeshtechlab.factory.flutter;
 
-import live.mukeshtechlab.factory.flutter.components.uiFactory.UIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.UIFactory;
 
 public class Flutter {
     // Factory of Factories / Abstract Factory

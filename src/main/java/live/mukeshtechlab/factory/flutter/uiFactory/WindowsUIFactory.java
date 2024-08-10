@@ -1,4 +1,4 @@
-package live.mukeshtechlab.factory.flutter.components.uiFactory;
+package live.mukeshtechlab.factory.flutter.uiFactory;
 
 import live.mukeshtechlab.factory.flutter.components.button.Button;
 import live.mukeshtechlab.factory.flutter.components.button.WindowsButton;

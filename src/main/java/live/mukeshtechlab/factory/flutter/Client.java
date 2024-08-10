@@ -3,7 +3,7 @@ package live.mukeshtechlab.factory.flutter;
 import live.mukeshtechlab.factory.flutter.components.button.Button;
 import live.mukeshtechlab.factory.flutter.components.dropDown.DropDown;
 import live.mukeshtechlab.factory.flutter.components.menu.Menu;
-import live.mukeshtechlab.factory.flutter.components.uiFactory.UIFactory;
+import live.mukeshtechlab.factory.flutter.uiFactory.UIFactory;
 
 public class Client {
     public static void main(String[] args) {
